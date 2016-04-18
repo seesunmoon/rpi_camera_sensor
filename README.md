@@ -1,7 +1,6 @@
 YouTube tutorial video:
 	https://www.youtube.com/watch?v=RTCG1Fm3kS4
 	
-	
 What you need?
 	A camera, I used SONY A6300
 	Raspberry Pi, mine is version 2 model B
